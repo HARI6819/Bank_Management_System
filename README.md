@@ -2,8 +2,7 @@
 A simple console-based Bank Management System built using Java, 
 simulating core banking operations such as account creation, login verification, 
 deposits, withdrawals, transfers, and balance checks. All user data is securely stored 
-and managed in a flat .txt file, enabling persistent session tracking between 
-application restarts.
+and managed in a flat .txt file, enabling persistent session tracking between application restarts.
 📌 Features
  🔐 Create New Account
 •	Stores user details (Name, Password, UPI ID, Account Number)
