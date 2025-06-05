@@ -1,0 +1,2 @@
+hari,hari,hari,1234,100.0
+pons,pons,pons,1235,1900.0
