@@ -60,7 +60,7 @@ Console-based UI to perform:
 bash
 
 Copy code
-git clone https://github.com/yourusername/BankManagementSystem.git
+git clone https://github.com/HARI6819/BankManagementSystem.git
 
 2.	Open the project in an IDE (like IntelliJ IDEA or Eclipse)
   
